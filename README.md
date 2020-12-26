@@ -1,16 +1,49 @@
-### Hi there 👋
+### Hi there :)
 
-<!--
-**Binders77/Binders77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Social media
 
-Here are some ideas to get you started:
+<a href="https://www.instagram.com/erik_sommer/">
+  <img align="left" alt="Bjørge's Instagram" width="45px" src="https://img.icons8.com/fluent/96/000000/instagram-new.png" />
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://www.linkedin.com/in/erikssommer/">
+  <img align="left" alt="Bjærge's Linkedin" width="45px" src="https://img.icons8.com/fluent/96/000000/linkedin.png" />
+</a>
+<br /><br />
+
+**Personal stuff**
+- 🌱 I’m currently learning JavaScript and Python 3 
+- 📫 How to reach me: bjorge.s.djuve@hotmail.com || s3501430@oslomet.no
+<br>
+
+**Tools & Languages**
+
+<a href="https://www.java.com/en/">
+    <img align="left" alt="Java" width="26px" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" />
+</a>
+
+<a href="https://www.jetbrains.com/idea/">
+    <img align="left" alt="IntelliJ" width="26px" src="https://img.icons8.com/color/48/000000/intellij-idea.png" />
+</a>
+<a href="https://github.com/KristianSorum/FinalProject">
+    <img align="left" alt="JavaScript" width="26px" src="https://img.icons8.com/color/48/000000/javascript.png" />
+</a>
+<a href="https://github.com/KristianSorum/FinalProject">
+    <img align="left" alt="HTML5" width="26px" src="https://img.icons8.com/color/48/000000/html-5.png" />
+</a>
+<a href="https://github.com/KristianSorum/FinalProject">
+    <img align="left" alt="CSS3" width="26px" src="https://img.icons8.com/color/48/000000/css3.png" />
+</a>
+
+<a href="https://github.com">
+    <img align="left" alt="GitHub" width="26px" src="https://img.icons8.com/color/48/000000/github.png" />
+</a>
+<a href="https://git-scm.com">
+    <img align="left" alt="Git" width="26px" src="https://img.icons8.com/color/48/000000/git.png" />
+</a>
+
+<a href="https://www.python.org/">
+    <img align="left" alt="Pyhton" width="26px" src="https://img.icons8.com/color/48/000000/python.png" />
+</a>
+
+
