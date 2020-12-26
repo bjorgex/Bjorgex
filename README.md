@@ -9,14 +9,12 @@ Social media
 <a href="https://www.linkedin.com/in/erikssommer/">
   <img align="left" alt="Bjærge's Linkedin" width="45px" src="https://img.icons8.com/fluent/96/000000/linkedin.png" />
 </a>
+
 <br /><br />
 
-
 **Personal stuff**
-
 - 🌱 I’m currently learning JavaScript and Python 3 
 - 📫 How to reach me: bjorge.s.djuve@hotmail.com || s3501430@oslomet.no
-<br>
 
 **Tools & Languages**
 
