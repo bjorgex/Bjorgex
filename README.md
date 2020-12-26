@@ -13,6 +13,7 @@ Social media
 
 
 **Personal stuff**
+
 - 🌱 I’m currently learning JavaScript and Python 3 
 - 📫 How to reach me: bjorge.s.djuve@hotmail.com || s3501430@oslomet.no
 <br>
