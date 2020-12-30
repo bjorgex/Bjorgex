@@ -25,13 +25,13 @@ Social media
 <a href="https://www.jetbrains.com/idea/">
     <img align="left" alt="IntelliJ" width="26px" src="https://img.icons8.com/color/48/000000/intellij-idea.png" />
 </a>
-<a href="https://github.com/KristianSorum/FinalProject">
+<a href="https://www.javascript.com/">
     <img align="left" alt="JavaScript" width="26px" src="https://img.icons8.com/color/48/000000/javascript.png" />
 </a>
-<a href="https://github.com/KristianSorum/FinalProject">
+<a href="https://github.com/kumia01/final-project">
     <img align="left" alt="HTML5" width="26px" src="https://img.icons8.com/color/48/000000/html-5.png" />
 </a>
-<a href="https://github.com/KristianSorum/FinalProject">
+<a href="https://github.com/kumia01/final-project">
     <img align="left" alt="CSS3" width="26px" src="https://img.icons8.com/color/48/000000/css3.png" />
 </a>
 
