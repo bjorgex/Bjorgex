@@ -47,7 +47,7 @@ Social media
 </a>
 
 <a href="http://www.sqlcourse.com/intro.html">
-    <img align="left" alt="SQL" width="26px" src="https://img.icons8.com/color/48/000000/SQL.png" />
+    <img align="left" alt="SQL" width="26px" src="https://img.icons8.com/color/64/000000/sql.png" />
 </a>
 
 <a href="https://www.php.net/">
