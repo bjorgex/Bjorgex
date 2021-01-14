@@ -13,7 +13,7 @@ Social media
 <br /><br />
 
 **Personal stuff**
-- 🌱 I’m currently learning JavaScript and Python 3 
+- 🌱 I’m currently learning JavaScript, Python 3, PHP and SQL
 - 📫 How to reach me: bjorge.s.djuve@hotmail.com || s3501430@oslomet.no
 
 **Tools & Languages**
@@ -44,6 +44,14 @@ Social media
 
 <a href="https://www.python.org/">
     <img align="left" alt="Pyhton" width="26px" src="https://img.icons8.com/color/48/000000/python.png" />
+</a>
+
+<a href="http://www.sqlcourse.com/intro.html">
+    <img align="left" alt="SQL" width="26px" src="https://img.icons8.com/color/48/000000/SQL.png" />
+</a>
+
+<a href="https://www.php.net/">
+    <img align="left" alt="Pyhton" width="26px" src="https://img.icons8.com/color/48/000000/PHP.png" />
 </a>
 
 
