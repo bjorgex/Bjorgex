@@ -51,7 +51,7 @@ Social media
 </a>
 
 <a href="https://www.php.net/">
-    <img align="left" alt="Pyhton" width="26px" src="https://img.icons8.com/color/48/000000/PHP.png" />
+    <img align="left" alt="PHP" width="26px" src="https://img.icons8.com/officel/16/000000/php-logo.png" />
 </a>
 
 
