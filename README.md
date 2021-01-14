@@ -47,11 +47,11 @@ Social media
 </a>
 
 <a href="http://www.sqlcourse.com/intro.html">
-    <img align="left" alt="SQL" width="26px" src="https://img.icons8.com/dusk/64/000000/sql.png" />
+    <img align="left" alt="SQL" width="26px" src="https://img.icons8.com/dusk/48/000000/sql.png" />
 </a>
 
 <a href="https://www.php.net/">
-    <img align="left" alt="PHP" width="26px" src="https://img.icons8.com/officel/16/000000/php-logo.png" />
+    <img align="left" alt="PHP" width="26px" src="https://img.icons8.com/officel/48/000000/php-logo.png" />
 </a>
 
 
