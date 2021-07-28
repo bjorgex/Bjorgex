@@ -13,7 +13,8 @@ Social media
 <br /><br />
 
 **Personal stuff**
-- 🌱 I’m currently learning JavaScript, Python 3 and SQL
+- 🌱 I’m currently learning JavaScript
+- and SQL
 - 📫 How to reach me: bjorge.s.djuve@hotmail.com || s3501430@oslomet.no
 
 **Tools & Languages**
