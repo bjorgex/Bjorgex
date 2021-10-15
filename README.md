@@ -1,59 +1,61 @@
-### Yo :)
+  <h1>
+    Hi, Welcome to my Github page! :sauropod: :artificial_satellite: :milky_way:
+  </h1>
 
-Social media
+  <a href="https://www.instagram.com/b_juvet/">
+    <img align="left" alt="Bjørge's Instagram" width="40px" src="https://img.icons8.com/fluent/96/000000/instagram-new.png" />
+  </a>
 
-<a href="https://www.instagram.com/b_juvet/">
-  <img align="left" alt="Bjørge's Instagram" width="45px" src="https://img.icons8.com/fluent/96/000000/instagram-new.png" />
-</a>
+  <a href="https://www.linkedin.com/in/Bjorge-S-Djuve/">
+    <img align="left" alt="Bjærge's Linkedin" width="40px" src="https://img.icons8.com/fluent/96/000000/linkedin.png" />
+  </a>
 
-<a href="https://www.linkedin.com/in/erikssommer/">
-  <img align="left" alt="Bjærge's Linkedin" width="45px" src="https://img.icons8.com/fluent/96/000000/linkedin.png" />
-</a>
+<br /> <br />
 
-<br /><br />
+  📫 Contact me: bjoerge@outlook.com | s3501430@oslomet.no
 
- 📫 How to reach me: bjoerge@outlook.com | s3501430@oslomet.no
+  :safety_vest: Tools & languages I'm working with and are intrested in
 
-** :safety_vest: Tools & languages I'm working with and are intrested in **
+  <a href="https://www.java.com/en/">
+      <img align="left" alt="Java" width="26px" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" />
+  </a>
 
-<a href="https://www.java.com/en/">
-    <img align="left" alt="Java" width="26px" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" />
-</a>
+  <a href="https://www.python.org/">
+      <img align="left" alt="Pyhton" width="26px" src="https://img.icons8.com/color/48/000000/python.png" />
+  </a>
 
-<a href="https://www.python.org/">
-    <img align="left" alt="Pyhton" width="26px" src="https://img.icons8.com/color/48/000000/python.png" />
-</a>
+  <a href="https://www.javascript.com/">
+      <img align="left" alt="JavaScript" width="26px" src="https://img.icons8.com/color/48/000000/javascript.png" />
+  </a>
 
-<a href="https://www.javascript.com/">
-    <img align="left" alt="JavaScript" width="26px" src="https://img.icons8.com/color/48/000000/javascript.png" />
-</a>
+  <a href="https://www.mysql.com/">
+      <img align="left" alt="SQL" width="26px" src="https://img.icons8.com/dusk/48/000000/sql.png" />
+  </a>
 
-<a href="https://www.mysql.com/">
-    <img align="left" alt="SQL" width="26px" src="https://img.icons8.com/dusk/48/000000/sql.png" />
-</a>
+  <a href="https://www.mathworks.com/products/matlab.html">
+      <img align="left" alt="MatLab" width="26px" src="https://img.icons8.com/fluency/48/000000/matlab.png" />
+  </a>
 
-<a href="https://www.mathworks.com/products/matlab.html">
-    <img align="left" alt="MatLab" width="26px" src="https://img.icons8.com/fluency/48/000000/matlab.png" />
-</a>
+  <a href="https://reactjs.org/">
+      <img align="left" alt="React Native" width="26px" src="https://img.icons8.com/office/16/000000/react.png" />
+  </a>
 
-<a href="https://reactjs.org/">
-    <img align="left" alt="React Native" width="26px" src="https://img.icons8.com/office/16/000000/react.png" />
-</a>
+  <a href="https://github.com/kumia01/final-project">
+      <img align="left" alt="HTML5" width="26px" src="https://img.icons8.com/color/48/000000/html-5.png" />
+  </a>
+  
+  <a href="https://github.com/kumia01/final-project">
+      <img align="left" alt="CSS3" width="26px" src="https://img.icons8.com/color/48/000000/css3.png" />
+  </a>
 
-<a href="https://github.com/kumia01/final-project">
-    <img align="left" alt="HTML5" width="26px" src="https://img.icons8.com/color/48/000000/html-5.png" />
-</a>
-<a href="https://github.com/kumia01/final-project">
-    <img align="left" alt="CSS3" width="26px" src="https://img.icons8.com/color/48/000000/css3.png" />
-</a>
+  <a href="https://github.com">
+      <img align="left" alt="GitHub" width="26px" src="https://img.icons8.com/color/48/000000/github.png" />
+  </a>
+  
+  <a href="https://git-scm.com">
+      <img align="left" alt="Git" width="26px" src="https://img.icons8.com/color/48/000000/git.png" />
+  </a>
 
-<a href="https://github.com">
-    <img align="left" alt="GitHub" width="26px" src="https://img.icons8.com/color/48/000000/github.png" />
-</a>
-<a href="https://git-scm.com">
-    <img align="left" alt="Git" width="26px" src="https://img.icons8.com/color/48/000000/git.png" />
-</a>
-
-
+ 
 
 
