@@ -33,7 +33,11 @@ Social media
 </a>
 
 <a href="https://www.mathworks.com/products/matlab.html">
-    <img align="left" alt="SQL" width="26px" src="https://img.icons8.com/fluency/48/000000/matlab.png" />
+    <img align="left" alt="MatLab" width="26px" src="https://img.icons8.com/fluency/48/000000/matlab.png" />
+</a>
+
+<a href="https://reactjs.org/">
+    <img align="left" alt="React Native" width="26px" src="https://img.icons8.com/office/16/000000/react.png" />
 </a>
 
 <a href="https://github.com/kumia01/final-project">
