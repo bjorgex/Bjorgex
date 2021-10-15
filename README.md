@@ -2,7 +2,7 @@
 
 Social media
 
-<a href="https://www.instagram.com/erik_sommer/">
+<a href="https://www.instagram.com/b_juvet/">
   <img align="left" alt="Bjørge's Instagram" width="45px" src="https://img.icons8.com/fluent/96/000000/instagram-new.png" />
 </a>
 
@@ -12,7 +12,7 @@ Social media
 
 <br /><br />
 
- 📫 How to reach me: bjorge.s.djuve@hotmail.com || s3501430@oslomet.no
+ 📫 How to reach me: bjoerge@outlook.com | s3501430@oslomet.no
 
 **Tools & Languages**
 
@@ -20,12 +20,22 @@ Social media
     <img align="left" alt="Java" width="26px" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" />
 </a>
 
-<a href="https://www.jetbrains.com/idea/">
-    <img align="left" alt="IntelliJ" width="26px" src="https://img.icons8.com/color/48/000000/intellij-idea.png" />
+<a href="https://www.python.org/">
+    <img align="left" alt="Pyhton" width="26px" src="https://img.icons8.com/color/48/000000/python.png" />
 </a>
+
 <a href="https://www.javascript.com/">
     <img align="left" alt="JavaScript" width="26px" src="https://img.icons8.com/color/48/000000/javascript.png" />
 </a>
+
+<a href="http://www.sqlcourse.com/intro.html">
+    <img align="left" alt="SQL" width="26px" src="https://img.icons8.com/dusk/48/000000/sql.png" />
+</a>
+
+<a href="https://www.mathworks.com/products/matlab.html">
+    <img align="left" alt="SQL" width="26px" src="https://img.icons8.com/dusk/48/000000/matlab.png" />
+</a>
+
 <a href="https://github.com/kumia01/final-project">
     <img align="left" alt="HTML5" width="26px" src="https://img.icons8.com/color/48/000000/html-5.png" />
 </a>
@@ -40,12 +50,6 @@ Social media
     <img align="left" alt="Git" width="26px" src="https://img.icons8.com/color/48/000000/git.png" />
 </a>
 
-<a href="https://www.python.org/">
-    <img align="left" alt="Pyhton" width="26px" src="https://img.icons8.com/color/48/000000/python.png" />
-</a>
 
-<a href="http://www.sqlcourse.com/intro.html">
-    <img align="left" alt="SQL" width="26px" src="https://img.icons8.com/dusk/48/000000/sql.png" />
-</a>
 
 
