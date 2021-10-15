@@ -14,7 +14,7 @@ Social media
 
  📫 How to reach me: bjoerge@outlook.com | s3501430@oslomet.no
 
-**Tools & languages I'm working with and are intrested in**
+** :safety_vest: Tools & languages I'm working with and are intrested in **
 
 <a href="https://www.java.com/en/">
     <img align="left" alt="Java" width="26px" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" />
