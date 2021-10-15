@@ -28,12 +28,12 @@ Social media
     <img align="left" alt="JavaScript" width="26px" src="https://img.icons8.com/color/48/000000/javascript.png" />
 </a>
 
-<a href="http://www.sqlcourse.com/intro.html">
+<a href="https://www.mysql.com/">
     <img align="left" alt="SQL" width="26px" src="https://img.icons8.com/dusk/48/000000/sql.png" />
 </a>
 
 <a href="https://www.mathworks.com/products/matlab.html">
-    <img align="left" alt="SQL" width="26px" src="https://img.icons8.com/dusk/48/000000/matlab.png" />
+    <img align="left" alt="SQL" width="26px" src="https://img.icons8.com/fluency/48/000000/matlab.png" />
 </a>
 
 <a href="https://github.com/kumia01/final-project">
