@@ -69,3 +69,35 @@
       <img align="left" alt="C#" width="26px" src="https://img.icons8.com/color/48/000000/c-sharp-logo-2.png" />
   </a>
   
+  <a href="https://www.docker.com/">
+      <img align="left" alt="Docker" width="26px" src="https://img.icons8.com/color/48/000000/docker.png" />
+  </a>
+  
+  <a href="https://www.linux.org/">
+      <img align="left" alt="Linux" width="26px" src="https://img.icons8.com/color/48/000000/linux.png" />
+  </a>
+  
+  <a href="https://www.zabbix.com/">
+      <img align="left" alt="Zabbix" width="26px" src="https://img.icons8.com/color/48/000000/zabbix.png" />
+  </a>
+  
+  <a href="">
+      <img align="left" alt="" width="26px" src="https://img.icons8.com/color/48/000000/" />
+  </a>
+  
+  <a href="">
+      <img align="left" alt="" width="26px" src="https://img.icons8.com/color/48/000000/" />
+  </a>
+  
+  <a href="">
+      <img align="left" alt="" width="26px" src="https://img.icons8.com/color/48/000000/" />
+  </a>
+  
+  <a href="">
+      <img align="left" alt="" width="26px" src="https://img.icons8.com/color/48/000000/" />
+  </a>
+  
+  
+  
+  
+  
