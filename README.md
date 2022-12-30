@@ -6,13 +6,13 @@
     <img align="left" alt="Bjørge's Instagram" width="40px" src="https://img.icons8.com/fluent/96/000000/instagram-new.png" />
   </a>
 
-  <a href="https://www.linkedin.com/in/Bjorge-S-Djuve/">
-    <img align="left" alt="Bjærge's Linkedin" width="40px" src="https://img.icons8.com/fluent/96/000000/linkedin.png" />
+  <a href="https://www.linkedin.com/in/bjorgex/">
+    <img align="left" alt="Bjørge's Linkedin" width="40px" src="https://img.icons8.com/fluent/96/000000/linkedin.png" />
   </a>
 
 <br /> <br />
 
-  📫 Contact me: bjoerge@outlook.com | s3501430@oslomet.no
+  📫 Contact me: bjorgex@outlook.com | s3501430@oslomet.no
 
   :safety_vest: Tools & languages I'm working with and are intrested in
 
@@ -40,11 +40,11 @@
       <img align="left" alt="React Native" width="26px" src="https://img.icons8.com/office/16/000000/react.png" />
   </a>
 
-  <a href="https://github.com/kumia01/final-project">
+  <a href="">
       <img align="left" alt="HTML5" width="26px" src="https://img.icons8.com/color/48/000000/html-5.png" />
   </a>
   
-  <a href="https://github.com/kumia01/final-project">
+  <a href="">
       <img align="left" alt="CSS3" width="26px" src="https://img.icons8.com/color/48/000000/css3.png" />
   </a>
 
@@ -55,7 +55,14 @@
   <a href="https://git-scm.com">
       <img align="left" alt="Git" width="26px" src="https://img.icons8.com/color/48/000000/git.png" />
   </a>
-
- 
-
-
+  
+  <a href=https://www.typescriptlang.org/"">
+      <img align="left" alt="TypeScript" width="26px" src="https://img.icons8.com/color/48/000000/typescript.png" />
+  </a>
+  
+  <a href="https://angular.io/">
+      <img align="left" alt="Angular" width="26px" src="https://img.icons8.com/color/48/000000/angular.png" />
+  </a>
+  <a href="https://dotnet.microsoft.com/en-us/languages/csharp">
+      <img align="left" alt="C#" width="26px" src="https://img.icons8.com/color/48/000000/csharp.png" />
+  </a>
