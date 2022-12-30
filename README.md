@@ -16,6 +16,15 @@
 
   :safety_vest: Tools & languages I'm working with and are intrested in
 
+  
+  <a href="">
+      <img align="left" alt="HTML5" width="26px" src="https://img.icons8.com/color/48/000000/html-5.png" />
+  </a>
+  
+  <a href="">
+      <img align="left" alt="CSS3" width="26px" src="https://img.icons8.com/color/48/000000/css3.png" />
+  </a>
+
   <a href="https://www.java.com/en/">
       <img align="left" alt="Java" width="26px" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" />
   </a>
@@ -40,14 +49,6 @@
       <img align="left" alt="React Native" width="26px" src="https://img.icons8.com/office/16/000000/react.png" />
   </a>
 
-  <a href="">
-      <img align="left" alt="HTML5" width="26px" src="https://img.icons8.com/color/48/000000/html-5.png" />
-  </a>
-  
-  <a href="">
-      <img align="left" alt="CSS3" width="26px" src="https://img.icons8.com/color/48/000000/css3.png" />
-  </a>
-
   <a href="https://github.com">
       <img align="left" alt="GitHub" width="26px" src="https://img.icons8.com/color/48/000000/github.png" />
   </a>
@@ -56,7 +57,7 @@
       <img align="left" alt="Git" width="26px" src="https://img.icons8.com/color/48/000000/git.png" />
   </a>
   
-  <a href=https://www.typescriptlang.org/"">
+  <a href="https://www.typescriptlang.org/">
       <img align="left" alt="TypeScript" width="26px" src="https://img.icons8.com/color/48/000000/typescript.png" />
   </a>
   
