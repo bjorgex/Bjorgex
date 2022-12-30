@@ -47,10 +47,6 @@
   <a href="https://www.mysql.com/">
       <img align="left" alt="SQL" width="26px" src="https://img.icons8.com/dusk/48/000000/sql.png" />
   </a>
-
-  <a href="https://www.sqlite.org/index.html">
-      <img align="left" alt="SQLite" width="26px" src="https://img.icons8.com/color/48/000000/SQLite.png" />
-  </a>
   
   <a href="https://html.com/">
       <img align="left" alt="HTML5" width="26px" src="https://img.icons8.com/color/48/000000/html-5.png" />
