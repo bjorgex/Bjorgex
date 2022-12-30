@@ -62,10 +62,10 @@
   </a>
   
   <a href="https://angular.io/">
-      <img align="left" alt="Angular" width="26px" src="https://icons8.com/icon/71257/angularjs.png" />
+      <img align="left" alt="Angular" width="26px" src="https://img.icons8.com/color/48/000000/angularjs.png" />
   </a>
   
   <a href="https://dotnet.microsoft.com/en-us/languages/csharp">
-      <img align="left" alt="C#" width="26px" src="https://icons8.com/icon/45490/c-sharp-logo-2.png" />
+      <img align="left" alt="C#" width="26px" src="https://img.icons8.com/color/48/000000/c-sharp-logo-2.png" />
   </a>
   
