@@ -16,45 +16,56 @@
 
   :safety_vest: Tools & languages I'm working with and are intrested in
 
-  
-  <a href="">
-      <img align="left" alt="HTML5" width="26px" src="https://img.icons8.com/color/48/000000/html-5.png" />
+  <a href="https://git-scm.com">
+      <img align="left" alt="Git" width="26px" src="https://img.icons8.com/color/48/000000/git.png" />
   </a>
   
-  <a href="">
-      <img align="left" alt="CSS3" width="26px" src="https://img.icons8.com/color/48/000000/css3.png" />
-  </a>
-
   <a href="https://www.java.com/en/">
       <img align="left" alt="Java" width="26px" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" />
   </a>
-
+  
+  <a href="https://dotnet.microsoft.com/en-us/languages/csharp">
+      <img align="left" alt="C#" width="26px" src="https://img.icons8.com/color/48/000000/c-sharp-logo-2.png" />
+  </a>
+  
+  <a href="">
+      <img align="left" alt="" width="26px" src="https://img.icons8.com/color/48/000000/c.png" />
+  </a>
+  
   <a href="https://www.python.org/">
       <img align="left" alt="Pyhton" width="26px" src="https://img.icons8.com/color/48/000000/python.png" />
+  </a>
+  
+  <a href="https://www.selenium.dev/">
+      <img align="left" alt="Selenium" width="26px" src="https://img.icons8.com/color/48/000000/selenium.png" />
+  </a>
+  
+  <a href="https://jupyter.org/">
+      <img align="left" alt="" width="26px" src="https://img.icons8.com/color/48/000000/Jupiter.png" />
+  </a>
+  
+  <a href="https://www.mysql.com/">
+      <img align="left" alt="SQL" width="26px" src="https://img.icons8.com/dusk/48/000000/sql.png" />
+  </a>
+
+  <a href="https://www.sqlite.org/index.html">
+      <img align="left" alt="SQLite" width="26px" src="https://img.icons8.com/color/48/000000/SQLite.png" />
+  </a>
+  
+  <a href="https://html.com/">
+      <img align="left" alt="HTML5" width="26px" src="https://img.icons8.com/color/48/000000/html-5.png" />
+  </a>
+  
+  <a href="https://css-tricks.com/">
+      <img align="left" alt="CSS3" width="26px" src="https://img.icons8.com/color/48/000000/css3.png" />
   </a>
 
   <a href="https://www.javascript.com/">
       <img align="left" alt="JavaScript" width="26px" src="https://img.icons8.com/color/48/000000/javascript.png" />
   </a>
-
-  <a href="https://www.mysql.com/">
-      <img align="left" alt="SQL" width="26px" src="https://img.icons8.com/dusk/48/000000/sql.png" />
-  </a>
-
-  <a href="https://www.mathworks.com/products/matlab.html">
-      <img align="left" alt="MatLab" width="26px" src="https://img.icons8.com/fluency/48/000000/matlab.png" />
-  </a>
-
+  
   <a href="https://reactjs.org/">
       <img align="left" alt="React Native" width="26px" src="https://img.icons8.com/office/16/000000/react.png" />
-  </a>
-
-  <a href="https://github.com">
-      <img align="left" alt="GitHub" width="26px" src="https://img.icons8.com/color/48/000000/github.png" />
-  </a>
-  
-  <a href="https://git-scm.com">
-      <img align="left" alt="Git" width="26px" src="https://img.icons8.com/color/48/000000/git.png" />
   </a>
   
   <a href="https://www.typescriptlang.org/">
@@ -64,50 +75,29 @@
   <a href="https://angular.io/">
       <img align="left" alt="Angular" width="26px" src="https://img.icons8.com/color/48/000000/angularjs.png" />
   </a>
-  
-  <a href="https://dotnet.microsoft.com/en-us/languages/csharp">
-      <img align="left" alt="C#" width="26px" src="https://img.icons8.com/color/48/000000/c-sharp-logo-2.png" />
+ 
+  <a href="https://www.linux.org/">
+      <img align="left" alt="Linux" width="26px" src="https://img.icons8.com/color/48/000000/linux.png" />
   </a>
   
   <a href="https://www.docker.com/">
       <img align="left" alt="Docker" width="26px" src="https://img.icons8.com/color/48/000000/docker.png" />
   </a>
   
-  <a href="https://www.linux.org/">
-      <img align="left" alt="Linux" width="26px" src="https://img.icons8.com/color/48/000000/linux.png" />
-  </a>
-  
-  <a href="https://www.zabbix.com/">
-      <img align="left" alt="Zabbix" width="26px" src="https://img.icons8.com/color/48/000000/zabbix.png" />
-  </a>
-  
-  <a href="">
-      <img align="left" alt="" width="26px" src="https://img.icons8.com/color/48/000000/selenium.png" />
-  </a>
-  
-  <a href="">
-      <img align="left" alt="" width="26px" src="https://img.icons8.com/color/48/000000/c.png" />
-  </a>
-  
-  <a href="">
+  <a href="https://www.gnu.org/software/bash/">
       <img align="left" alt="" width="26px" src="https://img.icons8.com/color/48/000000/bash.png" />
   </a>
   
-  <a href="">
-      <img align="left" alt="" width="26px" src="https://img.icons8.com/color/48/000000/assembly.png" />
-  </a>
-  
-  <a href="">
+  <a href="https://learn.microsoft.com/en-us/powershell/">
       <img align="left" alt="" width="26px" src="https://img.icons8.com/color/48/000000/powershell.png" />
   </a>
   
-  <a href="">
-      <img align="left" alt="" width="26px" src="https://img.icons8.com/color/48/000000/SQLite.png" />
+  <a href="https://www.mathworks.com/products/matlab.html">
+      <img align="left" alt="MatLab" width="26px" src="https://img.icons8.com/fluency/48/000000/matlab.png" />
   </a>
   
-  <a href="">
-      <img align="left" alt="" width="26px" src="https://img.icons8.com/color/48/000000/Jupiter.png" />
-  </a>
+  
+  
   
   
   
