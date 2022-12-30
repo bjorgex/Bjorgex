@@ -82,19 +82,31 @@
   </a>
   
   <a href="">
-      <img align="left" alt="" width="26px" src="https://img.icons8.com/color/48/000000/" />
+      <img align="left" alt="" width="26px" src="https://img.icons8.com/color/48/000000/selenium.png" />
   </a>
   
   <a href="">
-      <img align="left" alt="" width="26px" src="https://img.icons8.com/color/48/000000/" />
+      <img align="left" alt="" width="26px" src="https://img.icons8.com/color/48/000000/c.png" />
   </a>
   
   <a href="">
-      <img align="left" alt="" width="26px" src="https://img.icons8.com/color/48/000000/" />
+      <img align="left" alt="" width="26px" src="https://img.icons8.com/color/48/000000/bash.png" />
   </a>
   
   <a href="">
-      <img align="left" alt="" width="26px" src="https://img.icons8.com/color/48/000000/" />
+      <img align="left" alt="" width="26px" src="https://img.icons8.com/color/48/000000/assembly.png" />
+  </a>
+  
+  <a href="">
+      <img align="left" alt="" width="26px" src="https://img.icons8.com/color/48/000000/powershell.png" />
+  </a>
+  
+  <a href="">
+      <img align="left" alt="" width="26px" src="https://img.icons8.com/color/48/000000/SQLite.png" />
+  </a>
+  
+  <a href="">
+      <img align="left" alt="" width="26px" src="https://img.icons8.com/color/48/000000/Jupiter.png" />
   </a>
   
   
