@@ -35,10 +35,7 @@
   <a href="https://www.python.org/">
       <img align="left" alt="Pyhton" width="26px" src="https://img.icons8.com/color/48/000000/python.png" />
   </a>
-  
-  <a href="https://www.selenium.dev/">
-      <img align="left" alt="Selenium" width="26px" src="https://img.icons8.com/color/48/000000/selenium.png" />
-  </a>
+
   
   <a href="https://jupyter.org/">
       <img align="left" alt="" width="26px" src="https://img.icons8.com/color/48/000000/Jupiter.png" />
