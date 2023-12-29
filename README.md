@@ -12,7 +12,7 @@
 
 <br /> <br />
 
-  📫 Contact me: bjorgex@outlook.com | s3501430@oslomet.no
+  📫 Contact me: bjoerge@outlook.com
 
   :safety_vest: Tools & languages I'm working with and are intrested in
 
