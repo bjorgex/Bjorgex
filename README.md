@@ -1,20 +1,11 @@
   <h1>
     Hi, Welcome to my Github page! :sauropod: :artificial_satellite: :milky_way:
   </h1>
+<br /> <br /> 
+Currently working on setting up a Active Directory server and creating scripts to make user creating autonomous :construction_worker:.
+<br /> <br /> 
 
-  <a href="https://www.instagram.com/b_juvet/">
-    <img align="left" alt="Bjørge's Instagram" width="40px" src="https://img.icons8.com/fluent/96/000000/instagram-new.png" />
-  </a>
-
-  <a href="https://www.linkedin.com/in/bjorgex/">
-    <img align="left" alt="Bjørge's Linkedin" width="40px" src="https://img.icons8.com/fluent/96/000000/linkedin.png" />
-  </a>
-
-<br /> <br />
-
-  📫 Contact me: bjoerge@outlook.com
-
- Tools & languages I'm working with and are intrested in:
+Tools & languages I'm working with and are intrested in:
 
   <a href="https://www.java.com/en/">
       <img align="left" alt="Java" width="26px" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" />
