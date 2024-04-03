@@ -2,7 +2,14 @@
     Hi, Welcome to my Github page! :sauropod: :artificial_satellite: :milky_way:
   </h1>
 <br /> <br /> 
-Currently working on setting up a Active Directory server and creating scripts to make user creating autonomous :construction_worker:.
+Currently working on setting up a Active Directory server and creating scripts to make user creating autonomous :construction_worker:. 
+If you want to contact me im available on email or LinkedIn:
+<br />
+<br />
+
+📧 bjoerge@outlook.com
+
+🔗 www.linkedin.com/in/bjorgex
 <br /> <br /> 
 
 Tools & languages I'm working with and are intrested in:
