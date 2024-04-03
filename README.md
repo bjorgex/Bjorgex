@@ -23,10 +23,7 @@
   <a href="https://dotnet.microsoft.com/en-us/languages/csharp">
       <img align="left" alt="C#" width="26px" src="https://img.icons8.com/color/48/000000/c-sharp-logo-2.png" />
   </a>
-  
-  <a href="">
-      <img align="left" alt="" width="26px" src="https://img.icons8.com/color/48/000000/c.png" />
-  </a>
+
   
   <a href="https://www.python.org/">
       <img align="left" alt="Pyhton" width="26px" src="https://img.icons8.com/color/48/000000/python.png" />
