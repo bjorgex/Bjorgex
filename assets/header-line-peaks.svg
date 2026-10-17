@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 220" width="900" height="220">
+<style>.l{fill:none;stroke:#57606a;stroke-width:2.5;stroke-linejoin:round;stroke-dasharray:1400;stroke-dashoffset:1400;animation:draw 2.4s ease-in-out forwards}
+.t{font-family:'Segoe UI',Helvetica,Arial,sans-serif;fill:#1f2328;font-weight:700;font-size:38px;opacity:0;animation:f 1.4s ease-out 1.6s forwards}
+@keyframes draw{to{stroke-dashoffset:0}}@keyframes f{to{opacity:1}}
+@media (prefers-color-scheme:dark){.l{stroke:#8b949e}.t{fill:#e6edf3}}</style>
+<polyline class="l" points="40,180 170,95 230,140 330,55 420,150 500,105 600,170 700,80 790,140 860,180"/>
+<polyline class="l" style="stroke-width:1.5;animation-delay:.8s" points="306,75 318,68 326,78 336,69 349,75"/>
+<polyline class="l" style="stroke-width:1.5;animation-delay:1s" points="680,98 692,92 702,101 714,93 727,98"/>
+<text class="t" x="450" y="205" text-anchor="middle">Bjørge Skjelbreid Djuve</text>
+</svg>
