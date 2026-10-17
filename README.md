@@ -67,5 +67,3 @@ Founded Topptur, the first ski-touring initiative for students in Oslo (OSI Fril
 ## Contact
 
 bjoerge@outlook.com · [LinkedIn](https://linkedin.com/in/bjoerge)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1b7fa6,100:0b3d5c&height=90&section=footer" width="100%" />
